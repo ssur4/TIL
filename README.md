@@ -1,9 +1,5 @@
 # TIL
-> _TIL (Today-I-Learn) Archive_
+> ***TIL (Today-I-Learn) Archive***
 ---
 ### Java
----
-
-
 ### CS (Computer Science)
----
